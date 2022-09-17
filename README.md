@@ -22,17 +22,17 @@
 - 😊 Ask me about anything, I would be happy to help.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdeljalil-Bouchfar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassineeddyb&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeljalil-Bouchfar&layout=compact&theme=radical)](https://github.com/Abdeljalil-Bouchfar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineeddyb&layout=compact&theme=radical)](https://github.com/yassineeddyb)
 
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&email=hide&login=abouchfa)](https://github.com/mohouyizme/1337-readme)
  -->
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
